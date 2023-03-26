@@ -1,0 +1,38 @@
+img{
+    margin-left:auto;
+    margin-right:auto;
+  }
+  .blue-background{
+    background-color:#e2e8f0;
+  }
+  .spaces{
+    margin-top:15px;
+    margin-bottom:15px;
+    padding-top:5px;
+    padding-bottom:5px;
+  }
+   .sub-title{
+    padding-top:1px;
+  }
+  .bio-size{
+    font-size:15px;
+  }
+  .bio-spaces{
+    padding-left:15px;
+  }
+  .navbar-brand {
+    float: none;
+    padding: 5px;
+}
+.navbar-center {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    text-align: center;
+    margin: auto;
+    height:100%;
+}
+  
+  
+ 
